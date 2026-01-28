@@ -1,6 +1,6 @@
-## Getting Started
+## About the Calculation 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+I wanted to practice with Java libraries and create a ui for my calculator. 
 
 ## Folder Structure
 
